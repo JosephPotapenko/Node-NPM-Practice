@@ -2,11 +2,14 @@
   "name": "node-npn-practice",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Joe was here. This thing works!\""
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Joe",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-confetti": "^1.9.3"
+  }
 }
